@@ -1,0 +1,108 @@
+!DOCTYPE html>
+<html>
+	<head>
+		<title>JobFinder</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="../asset/style/turma.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+	</head>
+	<body>
+
+			<div class="content">
+				<h1>Bem-vindo à Maria Luiza Loja!</h1>
+				<p>Aqui você encontra moda e estilo para todas as ocasiões.</p>
+			</div>
+		
+			<footer>
+				<div class="footer-content">
+					<div class="footer-info">
+						<h3>departamentos</h3>
+						<a href="http://" target="_blank" rel="noopener noreferrer">ar e ventilação</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">artesanato</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">áudio</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">automotivo</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">bebês</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">beleza e perfumaria</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">brinquedos</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">cama, mesa e banho</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">câmeras e drones</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">casa e construção</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">celulares</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">colchões</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">comércio e indústria</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">cursos</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">eletrodomésticos</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">eletroportáteis</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">esportes e lazer</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">ferramentas e jardim</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">games</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">informática</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">instrumentos musicais</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">livros</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">mercado</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">móveis</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">papelaria</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">pet shop</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">relógios</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">serviços</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">suplementos alimentares</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">tablets, iPads e e-readers</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">telefonia fixa</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">tv e vídeo</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">utilidades domésticas</a>
+						<a href="http://">vista magalu</a>
+					</div>
+					<div class="footer-links">
+						<h3>marketplace</h3>
+						<ul>
+							<li><a href="#home">venda seus produtos</a></li>
+							<li><a href="#sobre">proteção de marcas</a></li>
+						</ul>
+					</div>
+					<div class="footer-social">
+						<h3>central de atendimento</h3>
+						<a href="#" target="_blank">atendimento</a>
+						<a href="#" target="_blank">termo de compra e venda</a>
+						<a href="#" target="_blank">arrependimento ou desistência</a>
+						<a href="#" target="_blank">meus pedidos</a>
+						<a href="#" target="_blank">trocas e devoluções</a>
+						<a href="#" target="_blank">assistência técnica dos fabricantes</a>
+						<a href="#" target="_blank">política de privacidade</a>
+					</div>
+					<div class="sua empresa">
+						<h3>para sua empresa</h3>
+						<a href="http://">nossas soluções</a>
+						<a href="http://">vendas corporativas</a>
+						<a href="http://">incentivo e fidelidade</a>
+						<a href="http://">programas de benefício</a>
+						<a href="http://">catálogo para e-commerce</a>
+						<a href="http://">televendas corporativas</a>
+					</div>
+					<div class="serviços">
+						<h3>serviços</h3>
+						<a href="http://" target="_blank" rel="noopener noreferrer">recarga premiada</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">revista magalu</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">lista de casamento</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">chá de bebê</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">consórcio magalu</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">cartão luiza</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">magalu seguros</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">influenciador magalu</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">cliente ouro</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">quero de casamento</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">maga mais</a>
+						<a href="http://" target="_blank" rel="noopener noreferrer">carnê digital</a>
+
+					</div>
+				</div>
+				
+				<div class="footer-bottom">
+					<p>© 2024 Maria Luiza Loja. Todos os direitos reservados.</p>
+				</div>
+			</footer>
+   </body>
+</html>
