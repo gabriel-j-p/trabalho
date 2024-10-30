@@ -1,0 +1,41 @@
+footer {
+    background-color: #333; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Alinhamento central */
+    position: relative; /* Posição relativa */
+    bottom: 0; /* Fica na parte inferior */
+    width: 100%; /* Largura total */
+}
+
+.footer-content {
+    display: flex; /* Usar flexbox para layout */
+    justify-content: space-around; /* Espaço entre os itens */
+    flex-wrap: wrap; /* Permitir quebra de linha */
+}
+
+.footer-info, .footer-links, .footer-social {
+    margin: 10px; /* Margem ao redor dos itens */
+}
+
+.footer-links h3, .footer-social h3 {
+    margin-bottom: 10px; /* Espaçamento abaixo dos títulos */
+}
+
+ul {
+    list-style-type: none; /* Remove marcadores */
+    padding: 0; /* Remove preenchimento */
+}
+
+a {
+    color: white; /* Cor dos links */
+    text-decoration: none; /* Remove sublinhado */
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinha ao passar o mouse */
+}
+
+.footer-bottom {
+    margin-top: 20px; /* Espaço acima do rodapé inferior */
+}
